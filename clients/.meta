@@ -1,0 +1,12 @@
+{
+    "projects": {
+        "opensearch-dsl-py" : "git@github.com:opensearch-project/opensearch-dsl-py.git",
+        "opensearch-go"     : "git@github.com:opensearch-project/opensearch-go.git",
+        "opensearch-java"   : "git@github.com:opensearch-project/opensearch-java.git",
+        "opensearch-js"     : "git@github.com:opensearch-project/opensearch-js.git",
+        "opensearch-net"    : "git@github.com:opensearch-project/opensearch-net.git",
+        "opensearch-php"    : "git@github.com:opensearch-project/opensearch-php.git",
+        "opensearch-py"     : "git@github.com:opensearch-project/opensearch-py.git",
+        "opensearch-ruby"   : "git@github.com:opensearch-project/opensearch-ruby.git"
+    }
+}
