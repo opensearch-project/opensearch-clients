@@ -22,6 +22,8 @@ Install and configure GitHub CLI from [cli.github.com/manual/installation](https
 npm install -g meta
 ```
 
+See [package.json](package.json) for all dependencies being installed.
+
 ### Check Out Clients
 
 ```sh
