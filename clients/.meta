@@ -7,6 +7,7 @@
         "opensearch-net"    : "git@github.com:opensearch-project/opensearch-net.git",
         "opensearch-php"    : "git@github.com:opensearch-project/opensearch-php.git",
         "opensearch-py"     : "git@github.com:opensearch-project/opensearch-py.git",
-        "opensearch-ruby"   : "git@github.com:opensearch-project/opensearch-ruby.git"
+        "opensearch-ruby"   : "git@github.com:opensearch-project/opensearch-ruby.git",
+        "opensearch-rs"     : "git@github.com:opensearch-project/opensearch-rs.git"
     }
 }
