@@ -11,6 +11,7 @@
   - [Release Frequently](#release-frequently)
   - [Promote Other Maintainers](#promote-other-maintainers)
   - [Describe the Repo](#describe-the-repo)
+  - [Backports](#backports)
   
 ## Overview
 
@@ -73,3 +74,7 @@ Assist, add, and remove [MAINTAINERS](MAINTAINERS.md). Exercise good judgement, 
 ### Describe the Repo
 
 Make sure the repo has a well-written, accurate, and complete description. See [opensearch-project/.github#38](https://github.com/opensearch-project/.github/issues/38) for some helpful tips to describe your repo.
+
+### Backports
+
+After a PR is merged, maintainers can backport this PR to appropriate release branches if applicable. To automatically backport PRs, please see [BACKPORT](BACKPORT.md).
