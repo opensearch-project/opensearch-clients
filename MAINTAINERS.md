@@ -77,4 +77,4 @@ Make sure the repo has a well-written, accurate, and complete description. See [
 
 ### Backports
 
-After a PR is merged, maintainers can backport this PR to appropriate release branches if applicable. To automatically backport PRs, please see [BACKPORT](BACKPORT.md).
+After a PR is merged, maintainers can backport this PR to appropriate release branches if applicable. To automatically backport PRs, please see [BACKPORT](https://github.com/opensearch-project/opensearch-plugins/blob/main/WORKFLOWS.md#managing-backports).
