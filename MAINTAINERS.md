@@ -4,6 +4,14 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 
 ## Current Maintainers
 
+| Maintainer              | GitHub ID                                     | Affiliation |
+| ----------------------- | --------------------------------------------- | ----------- |
+| Daniel Doubrovkine      | [dblock](https://github.com/dblock)           | Amazon      |
+| Harsha Vamsi Kalluri    | [harshavamsi](https://github.com/harshavamsi) | Amazon      |
+| Vacha Shah              | [VachaShah](https://github.com/VachaShah)     | Amazon      |
+
+## Emeritus
+
 | Maintainer              | GitHub ID                                   | Affiliation |
 | ----------------------- | ------------------------------------------- | ----------- |
 | Jack Mazanec            | [jmazanec15](https://github.com/jmazanec15) | Amazon      |
