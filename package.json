@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "OpenSearch Clients",
     "dependencies": {
-        "meta": "^0.0.6",
+        "meta": "^2.2.25",
         "meta-gh": "^1.1.5"
     },
     "repository": {
