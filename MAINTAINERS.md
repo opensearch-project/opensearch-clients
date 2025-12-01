@@ -8,7 +8,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | -------------------- | --------------------------------------------- | ----------- |
 | Daniel Doubrovkine   | [dblock](https://github.com/dblock)           | Independent |
 | Harsha Vamsi Kalluri | [harshavamsi](https://github.com/harshavamsi) | Amazon      |
-| Thomas Farr          | [Xtansia](https://github.com/Xtansia)         | Amazon      |
+| Thomas Farr          | [Xtansia](https://github.com/Xtansia)         | Independent |
 | Vacha Shah           | [VachaShah](https://github.com/VachaShah)     | Amazon      |
 
 ## Emeritus
