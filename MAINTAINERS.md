@@ -6,7 +6,6 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 
 | Maintainer           | GitHub ID                                     | Affiliation |
 | -------------------- | --------------------------------------------- | ----------- |
-| Daniel Doubrovkine   | [dblock](https://github.com/dblock)           | Independent |
 | Harsha Vamsi Kalluri | [harshavamsi](https://github.com/harshavamsi) | Amazon      |
 | Thomas Farr          | [Xtansia](https://github.com/Xtansia)         | Amazon      |
 | Vacha Shah           | [VachaShah](https://github.com/VachaShah)     | Amazon      |
@@ -15,6 +14,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 
 | Maintainer              | GitHub ID                                   | Affiliation |
 | ----------------------- | ------------------------------------------- | ----------- |
+| Daniel Doubrovkine      | [dblock](https://github.com/dblock)         | Independent |
 | Jack Mazanec            | [jmazanec15](https://github.com/jmazanec15) | Amazon      |
 | Vamshi Vijay Nakkirtha  | [vamshin](https://github.com/vamshin)       | Amazon      |
 | Vijayan Balasubramanian | [VijayanB](https://github.com/VijayanB)     | Amazon      |
